@@ -1,0 +1,5 @@
+https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
+
+At the end of step 1 when it says to use npm start command, you must first make the directory with the index file the current directory using cd.
+
+Start client, then start server. Refresh client page (not realtime)
